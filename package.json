@@ -1,0 +1,14 @@
+{
+    "name": "projeto-pagina-web",
+    "version": "1.0.0",
+    "description": "Aplicação web com AJAX, WebSocket, Node.js e Bootstrap",
+    "main": "server/app.js",
+    "scripts": {
+        "start": "node server/app.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "socket.io": "^4.7.5",
+        "xpress": "^2.4.6"
+    }
+}
